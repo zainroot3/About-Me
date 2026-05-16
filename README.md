@@ -42,16 +42,16 @@ I am a **17-year-old Cybersecurity Enthusiast** and an aspiring **Red Teamer**. 
 
 ## 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zain.root3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain.root3&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainroot3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainroot3&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📧 Connect with Me
 - **Email:** [zain.root3@gmail.com](mailto:zain.root3@gmail.com)
-- **HackerOne:** [zain.root3](https://hackerone.com/zain.root3)
-- **LinkedIn:** [zain.root3](https://linkedin.com/in/zain.root3)
+- **HackerOne:** [zainroot3](https://hackerone.com/zainroot3)
+- **LinkedIn:** [zainroot3](https://linkedin.com/in/zainroot3)
 
 ---
 <p align="center">
