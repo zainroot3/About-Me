@@ -8,7 +8,7 @@ I am a **17-year-old Cybersecurity Enthusiast** and an aspiring **Red Teamer**. 
 - 🎯 **Goal:** Hunting more bugs and landing my first professional role in Cyber Security by 18.
 - 💻 **OS:** Using **Kali Linux (Bare Metal)** for 2+ years.
 - 🛠️ **Philosophy:** "If you can't do it manually, you don't know how it works."
-- 🐛 **Success:** Found my first bank vulnerability (marked duplicate, but validated by the bank!). Check out the official proof on my [LinkedIn Post](https://www.linkedin.com/posts/zainroot3_%F0%9D%90%8C%F0%9D%90%B2-%F0%9D%90%85%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%A5-%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%A0-%F0%9D%90%83%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2-share-7460547131117010944-ZeKR).
+- 🐛 **Success:** Found my first bank vulnerability (marked duplicate, but validated by the bank!). Check out the official proof on my [LinkedIn Post](https://www.linkedin.com/posts/zainroot3_%F0%9D%90%8C%F0%9D%90%B2-%F0%9D%90%85%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%A5-%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%A0-%F0%9D%90%83%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2-share-7460547131117010944-ZeKR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGO6UdwBxMO4uUuWFDoE1WjmWF3HHDICGME).
 
 ---
 
