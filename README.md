@@ -2,6 +2,12 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FF41&width=435&lines=Cyber+Security+Enthusiast;Junior+Penetration+Tester;Aspiring+Red+Teamer;C%2FC%2B%2B+Developer" alt="Typing SVG" /></p>
 
+<p align="left">
+  <a href="https://zainroot3.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/&gt;__PORTFOLIO-231F20?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=333" alt="Portfolio" />
+  </a>
+</p>
+
 ## 🛡️ About Me
 I am a **17-year-old Cybersecurity Enthusiast** and an aspiring **Red Teamer**. I love breaking things (ethically) and exploring how systems work under the hood. Unlike many, I prefer **manual exploitation** over automated tools, which allows me to understand the core logic of vulnerabilities.
 
