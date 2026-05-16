@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Zain (@zain.root3)
+# 👋 Hi, I'm Zain (@zainroot3)
 
 <p align="center">
-  <img src="https://readme-typing-svc.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Cyber+Security+Enthusiast;Junior+Penetration+Tester;Aspiring+Red+Teamer;C%2FC%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svc.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Cyber+Security+Enthusiast;Junior+Penetration+Tester;Aspiring+Red+Teamer;CPP+Developer" alt="Typing SVG" />
 </p>
 
 ## 🛡️ About Me
