@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Zain (@zainroot3)
-
-<p align="center">
-  <img src="https://readme-typing-svc.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Cyber+Security+Enthusiast;Junior+Penetration+Tester;Aspiring+Red+Teamer;CPP+Developer" alt="Typing SVG" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FF41&width=435&lines=Cyber+Security+Enthusiast;Junior+Penetration+Tester;Aspiring+Red+Teamer;C%2B%2B+Developer" alt="Typing SVG" /></p>
 
 ## 🛡️ About Me
 I am a **17-year-old Cybersecurity Enthusiast** and an aspiring **Red Teamer**. I love breaking things (ethically) and exploring how systems work under the hood. Unlike many, I prefer **manual exploitation** over automated tools, which allows me to understand the core logic of vulnerabilities.
@@ -41,9 +38,10 @@ I am a **17-year-old Cybersecurity Enthusiast** and an aspiring **Red Teamer**. 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainroot3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainroot3&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zainroot3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zain's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zainroot3&layout=compact&theme=tokyonight" alt="Zain's Top Languages" />
 </p>
 
 ---
